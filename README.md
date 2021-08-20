@@ -1,3 +1,3 @@
-|![gh-readme](https://user-images.githubusercontent.com/14102723/130227210-d27aea26-63e8-40fe-8335-cab688a37994.png)|
+|![work-ramin-nazer](https://user-images.githubusercontent.com/14102723/130228043-4ef8a4c4-8694-41e9-9e7d-f7bde7ad6bd8.jpg)|
 |:--:|
-|[Art - Jesse Jacobs](https://www.jessejacobsart.com/)|
+|[Art by Ramin Nazer](https://raminnazer.com/)|
