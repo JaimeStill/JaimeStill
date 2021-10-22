@@ -11,7 +11,7 @@ My GitHub profile is where I primarily store the research I conduct, as well as 
 [![material](https://img.shields.io/badge/-material-64ffda?style=for-the-badge)](https://material.angular.io)
 [![powershell](https://img.shields.io/badge/-powershell-40c4ff?style=for-the-badge)](https://github.com/PowerShell/PowerShell)
 [![ef](https://img.shields.io/badge/-ef%20core-536dfe?style=for-the-badge)](https://docs.microsoft.com/en-us/ef/core/)
-[![git](https://img.shields.io/badge/-git-7c4dff?style=for-the-badge)](https://git-scm.com)
+[![git](https://img.shields.io/badge/-git-b388ff?style=for-the-badge)](https://git-scm.com)
 
 ## Pinned Repos
 
@@ -23,8 +23,8 @@ My GitHub profile is where I primarily store the research I conduct, as well as 
 [![p5-study](https://img.shields.io/badge/r&d-p5%20study-64ffda?style=for-the-badge)](https://github.com/JaimeStill/p5-study) 
 [![design-study](https://img.shields.io/badge/r&d-design%20study-40c4ff?style=for-the-badge)](https://github.com/JaimeStill/design-study) 
 [![reactive-forms-study](https://img.shields.io/badge/r&d-reactive%20forms%20study-536dfe?style=for-the-badge)](https://github.com/JaimeStill/reactive-forms-study) 
-[![async-form-validation](https://img.shields.io/badge/r&d-async%20form%20validation-7c4dff?style=for-the-badge)](https://github.com/JaimeStill/async-form-validation) 
-[![violet-cold-space](https://img.shields.io/badge/r&d-violet%20cold%20space-E040FB?style=for-the-badge)](https://github.com/JaimeStill/violet-cold-space) 
+[![async-form-validation](https://img.shields.io/badge/r&d-async%20form%20validation-b388ff?style=for-the-badge)](https://github.com/JaimeStill/async-form-validation) 
+[![violet-cold-space](https://img.shields.io/badge/r&d-violet%20cold%20space-ea80fc?style=for-the-badge)](https://github.com/JaimeStill/violet-cold-space) 
 [![hosted-code-snippets](https://img.shields.io/badge/r&d-hosted%20code%20snippets-212121?style=for-the-badge)](https://github.com/JaimeStill/hosted-code-snippets) 
 [![mapper](https://img.shields.io/badge/r&d-mapper-546e7a?style=for-the-badge)](https://github.com/JaimeStill/Mapper) 
 [![patterns-and-practices](https://img.shields.io/badge/archive-patterns%20and%20practices-f5f5f5?style=for-the-badge)](https://github.com/JaimeStill/PatternsAndPractices) 
