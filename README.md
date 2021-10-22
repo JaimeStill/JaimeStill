@@ -23,18 +23,10 @@ Angular / .NET developer. My GitHub profile is where I primarily store the resea
 
 ## Music
 
-|[![the-work](https://www.metalblade.com/us/covers/RiversOfNihil-TheWork.jpg)](https://open.spotify.com/album/7IyzDICfW1Hi7QsnJolkiR)|
-|:--:|
-|[![the-work](https://img.shields.io/badge/rivers%20of%20nihil-the%20work-36758C?style=for-the-badge)](https://open.spotify.com/album/7IyzDICfW1Hi7QsnJolkiR)|
+|[![the-work](https://www.metalblade.com/us/covers/RiversOfNihil-TheWork.jpg)](https://open.spotify.com/album/7IyzDICfW1Hi7QsnJolkiR)|[![colors-ii](https://static.metacritic.com/images/products/music/9/74243c3bf2ba342d00df2a0c982df9fe.jpg)](https://open.spotify.com/album/0pR2aVMa03OjgroeQcDwQQ)|
+|:--:|:--:|
+|[![the-work](https://img.shields.io/badge/rivers%20of%20nihil-the%20work-36758C?style=for-the-badge)](https://open.spotify.com/album/7IyzDICfW1Hi7QsnJolkiR)|[![color-ii](https://img.shields.io/badge/between%20the%20buried%20and%20me-colors%20ii-BC5345?style=for-the-badge)](https://open.spotify.com/album/0pR2aVMa03OjgroeQcDwQQ)|
 
-|[![colors-ii](https://e.snmc.io/i/600/s/6b6fd84cbbeee56b4318489cb10af51d/9115517/between-the-buried-and-me-colors-ii-Cover-Art.jpg)](https://open.spotify.com/album/0pR2aVMa03OjgroeQcDwQQ)|
-|:--:|
-|[![color-ii](https://img.shields.io/badge/between%20the%20buried%20and%20me-colors%20ii-BC5345?style=for-the-badge)](https://open.spotify.com/album/0pR2aVMa03OjgroeQcDwQQ)|
-
-|[![fear-inoculum](https://m.media-amazon.com/images/I/71HrT-cjr+L._SS500_.jpg)](https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5)|
-|:--:|
-|[![fear-inoculum](https://img.shields.io/badge/tool-fear%20inoculum-F0CC73?style=for-the-badge)](https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5)|
-
-|[![in-utero](https://m.media-amazon.com/images/I/51iPhdiuntL.jpg)](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr)|
-|:--:|
-|[![in-utero](https://img.shields.io/badge/nirvana-in%20utero-7D1E33?style=for-the-badge)](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr)
+|[![fear-inoculum](https://m.media-amazon.com/images/I/71HrT-cjr+L._SS500_.jpg)](https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5)|[![in-utero](https://m.media-amazon.com/images/I/51iPhdiuntL.jpg)](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr)|
+|:--:|:--:|
+|[![fear-inoculum](https://img.shields.io/badge/tool-fear%20inoculum-F0CC73?style=for-the-badge)](https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5)|[![in-utero](https://img.shields.io/badge/nirvana-in%20utero-7D1E33?style=for-the-badge)](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr)|
