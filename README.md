@@ -1,6 +1,6 @@
 # Hi, I'm Jaime
 
-My GitHub profile is where I primarily store the research I conduct, as well as the resources that I create, to facilitate my work on non-internet facing networks.
+GitHub is where I primarily store the research I conduct, as well as the resources that I create, to facilitate my work on non-internet-facing networks.
 
 ## Technologies
 [![c#](https://img.shields.io/badge/-c%23-ff5252?style=for-the-badge)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/)
