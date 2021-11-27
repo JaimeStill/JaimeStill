@@ -13,32 +13,32 @@ The intent here is to be able to develop data structures and an API that facilit
 The end state being that we can begin to digitize the formal data centered around workflows and staffing processes within our organization. Not only will this free the data from being locked behind programatically difficult (sometimes impossible) to read binary files, it allows get away from reliance on the proprietary and expensive PDF format.
 
 ## Technologies
-[![c#](https://img.shields.io/badge/-c%23-ff5252?style=flat-square)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/)
-[![typescript](https://img.shields.io/badge/-typescript-ffab40?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![angular](https://img.shields.io/badge/-angular-ffff00?style=flat-square)](https://angular.io)
-[![dotnet](https://img.shields.io/badge/-dotnet-b2ff59?style=flat-square)](https://docs.microsoft.com/en-us/dotnet/)
-[![scss](https://img.shields.io/badge/-scss-69f0ae?style=flat-square)](https://sass-lang.com/)
-[![material](https://img.shields.io/badge/-material-64ffda?style=flat-square)](https://material.angular.io)
-[![powershell](https://img.shields.io/badge/-powershell-40c4ff?style=flat-square)](https://github.com/PowerShell/PowerShell)
-[![ef](https://img.shields.io/badge/-ef%20core-536dfe?style=flat-square)](https://docs.microsoft.com/en-us/ef/core/)
-[![git](https://img.shields.io/badge/-git-b388ff?style=flat-square)](https://git-scm.com)
+[![c#](https://img.shields.io/badge/-C%23-ff5252?style=flat-square)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/)
+[![typescript](https://img.shields.io/badge/-TypeScript-ffab40?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![angular](https://img.shields.io/badge/-Angular-ffff00?style=flat-square)](https://angular.io)
+[![dotnet](https://img.shields.io/badge/-.NET-b2ff59?style=flat-square)](https://docs.microsoft.com/en-us/dotnet/)
+[![scss](https://img.shields.io/badge/-SCSS-69f0ae?style=flat-square)](https://sass-lang.com/)
+[![material](https://img.shields.io/badge/-Material-64ffda?style=flat-square)](https://material.angular.io)
+[![powershell](https://img.shields.io/badge/-PowerShell-40c4ff?style=flat-square)](https://github.com/PowerShell/PowerShell)
+[![ef](https://img.shields.io/badge/-EF%20Core-536dfe?style=flat-square)](https://docs.microsoft.com/en-us/ef/core/)
+[![git](https://img.shields.io/badge/-Git-b388ff?style=flat-square)](https://git-scm.com)
 
 ## Pinned Repos
 
 |   |   |   |
 |---|---|---|
-[![wallpaper-editor](https://img.shields.io/badge/r&d-wallpaper%20editor-ff5252?style=flat-square)](https://github.com/JaimeStill/wallpaper-editor) | [![convert-togif](https://img.shields.io/badge/utility-convert--togif-ffff00?style=flat-square)](https://github.com/JaimeStill/Convert-ToGif) | [![cryptography](https://img.shields.io/badge/r&d-cryptography-b2ff59?style=flat-square)](https://github.com/JaimeStill/cryptography)
-[![diff-changes](https://img.shields.io/badge/r&d-diff%20changes-69f0ae?style=flat-square)](https://github.com/JaimeStill/diff-changes) | [![p5-study](https://img.shields.io/badge/r&d-p5%20study-64ffda?style=flat-square)](https://github.com/JaimeStill/p5-study) | [![design-study](https://img.shields.io/badge/r&d-design%20study-40c4ff?style=flat-square)](https://github.com/JaimeStill/design-study) 
-[![reactive-forms-study](https://img.shields.io/badge/r&d-reactive%20forms%20study-536dfe?style=flat-square)](https://github.com/JaimeStill/reactive-forms-study) | [![async-form-validation](https://img.shields.io/badge/r&d-async%20form%20validation-b388ff?style=flat-square)](https://github.com/JaimeStill/async-form-validation) | [![violet-cold-space](https://img.shields.io/badge/r&d-violet%20cold%20space-ea80fc?style=flat-square)](https://github.com/JaimeStill/violet-cold-space) 
-[![hosted-code-snippets](https://img.shields.io/badge/r&d-hosted%20code%20snippets-212121?style=flat-square)](https://github.com/JaimeStill/hosted-code-snippets) | [![mapper](https://img.shields.io/badge/r&d-mapper-546e7a?style=flat-square)](https://github.com/JaimeStill/Mapper) | [![patterns-and-practices](https://img.shields.io/badge/archive-patterns%20and%20practices-ffffff?style=flat-square)](https://github.com/JaimeStill/PatternsAndPractices) 
+[![wallpaper-editor](https://img.shields.io/badge/R&D-Wallpaper%20Editor-ff5252?style=flat-square)](https://github.com/JaimeStill/wallpaper-editor) | [![convert-togif](https://img.shields.io/badge/utility-Convert--ToGif-ffff00?style=flat-square)](https://github.com/JaimeStill/Convert-ToGif) | [![cryptography](https://img.shields.io/badge/R&D-Cryptography-b2ff59?style=flat-square)](https://github.com/JaimeStill/cryptography)
+[![diff-changes](https://img.shields.io/badge/R&D-Diff%20Changes-69f0ae?style=flat-square)](https://github.com/JaimeStill/diff-changes) | [![p5-study](https://img.shields.io/badge/R&D-p5%20Study-64ffda?style=flat-square)](https://github.com/JaimeStill/p5-study) | [![design-study](https://img.shields.io/badge/R&D-Design%20Study-40c4ff?style=flat-square)](https://github.com/JaimeStill/design-study) 
+[![reactive-forms-study](https://img.shields.io/badge/R&D-Reactive%20Forms%20Study-536dfe?style=flat-square)](https://github.com/JaimeStill/reactive-forms-study) | [![async-form-validation](https://img.shields.io/badge/R&D-Async%20Form%20Validation-b388ff?style=flat-square)](https://github.com/JaimeStill/async-form-validation) | [![violet-cold-space](https://img.shields.io/badge/R&D-Violet%20Cold%20Space-ea80fc?style=flat-square)](https://github.com/JaimeStill/violet-cold-space) 
+[![hosted-code-snippets](https://img.shields.io/badge/R&D-Hosted%20Code%20Snippets-212121?style=flat-square)](https://github.com/JaimeStill/hosted-code-snippets) | [![Mapper](https://img.shields.io/badge/R&D-Mapper-546e7a?style=flat-square)](https://github.com/JaimeStill/Mapper) | [![patterns-and-practices](https://img.shields.io/badge/Archive-Patterns%20and%20Practices-ffffff?style=flat-square)](https://github.com/JaimeStill/PatternsAndPractices) 
 
 ## External Profiles
 
-[![spotify](https://img.shields.io/badge/-spotify-69f0ae?style=flat-square)](https://open.spotify.com/user/jaime.still)
-[![gist](https://img.shields.io/badge/-gist-546e7a?style=flat-square)](https://gist.github.com/JaimeStill)
-[![codepen](https://img.shields.io/badge/-codepen-212121?style=flat-square)](https://codepen.io/JaimeStill) 
-[![stackblitz](https://img.shields.io/badge/-stackblitz-536dfe?style=flat-square)](https://stackblitz.com/@JaimeStill)
-[![repl.it](https://img.shields.io/badge/-replit-ff5252?style=flat-square)](https://replit.com/@JaimeStill)
+[![spotify](https://img.shields.io/badge/-Spotify-69f0ae?style=flat-square)](https://open.spotify.com/user/jaime.still)
+[![gist](https://img.shields.io/badge/-Gist-546e7a?style=flat-square)](https://gist.github.com/JaimeStill)
+[![codepen](https://img.shields.io/badge/-Codepen-212121?style=flat-square)](https://codepen.io/JaimeStill) 
+[![stackblitz](https://img.shields.io/badge/-StackBlitz-536dfe?style=flat-square)](https://stackblitz.com/@JaimeStill)
+[![repl.it](https://img.shields.io/badge/-repl.it-ff5252?style=flat-square)](https://replit.com/@JaimeStill)
 
 ## Music
 
