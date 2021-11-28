@@ -45,7 +45,7 @@ The end state being that we can begin to digitize the formal data centered aroun
 ## Pinned Repos
 [Back to Top](#hi-im-jaime)
 
-[![Wallpaper Editor](https://github-readme-stats.vercel.app/api/pin/?username=jaimestill&repo=wallpaper-editor&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+[![Wallpaper Editor](https://github-readme-stats.vercel.app/api/pin/?username=jaimestill&repo=wallpaper-editor&theme=tokyonight)](https://github.com/JaimeStill/wallpaper-editor)  
 [![offline-platform](https://github-readme-stats.vercel.app/api/pin/?username=jaimestill&repo=offline-platform&theme=tokyonight)](https://github.com/JaimeStill/offline-platform)  
 [![convert-togif](https://github-readme-stats.vercel.app/api/pin/?username=jaimestill&repo=convert-togif&theme=tokyonight)](https://github.com/JaimeStill/convert-togif)  
 [![cryptography](https://github-readme-stats.vercel.app/api/pin/?username=jaimestill&repo=cryptography&theme=tokyonight)](https://github.com/JaimeStill/cryptography)  
