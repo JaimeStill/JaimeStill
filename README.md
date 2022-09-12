@@ -2,13 +2,6 @@
 
 GitHub is where I primarily store the research I conduct, as well as the resources that I create, to facilitate my work on non-internet-facing networks.
 
-## Contents
-* [External Profiles](#external-profiles)
-* [Technologies](#technologies)
-* [Current Research](#current-research)
-* [Pinned Repos](#pinned-repos)
-* [Music](#music)
-
 ## External Profiles
 [Back to Top](#hi-im-jaime)
 
