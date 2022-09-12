@@ -3,7 +3,6 @@
 GitHub is where I primarily store the research I conduct, as well as the resources that I create, to facilitate my work on non-internet-facing networks.
 
 ## External Profiles
-[Back to Top](#hi-im-jaime)
 
 [![spotify](https://img.shields.io/badge/-Spotify-4e91de?style=flat-square)](https://open.spotify.com/user/jaime.still)
 [![gist](https://img.shields.io/badge/-Gist-4e91de?style=flat-square)](https://gist.github.com/JaimeStill)
@@ -12,7 +11,6 @@ GitHub is where I primarily store the research I conduct, as well as the resourc
 [![repl.it](https://img.shields.io/badge/-repl.it-4e91de?style=flat-square)](https://replit.com/@JaimeStill)
 
 ## Technologies
-[Back to Top](#hi-im-jaime)
 
 [![c#](https://img.shields.io/badge/-C%23-4e91de?style=flat-square)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/)
 [![typescript](https://img.shields.io/badge/-TypeScript-4e91de?style=flat-square)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
