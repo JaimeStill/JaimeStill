@@ -4,6 +4,7 @@ GitHub is where I primarily store the research I conduct, as well as the resourc
 
 ## External Profiles
 
+[![microsoft learn](https://img.shields.io/badge/-Microsoft%20Learn-4e91de?style=flat-square)](https://learn.microsoft.com/en-us/users/me/activity/)
 [![spotify](https://img.shields.io/badge/-Spotify-4e91de?style=flat-square)](https://open.spotify.com/user/jaime.still)
 [![gist](https://img.shields.io/badge/-Gist-4e91de?style=flat-square)](https://gist.github.com/JaimeStill)
 [![codepen](https://img.shields.io/badge/-Codepen-4e91de?style=flat-square)](https://codepen.io/JaimeStill) 
