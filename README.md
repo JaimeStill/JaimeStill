@@ -9,7 +9,7 @@ GitHub is where I primarily store the research I conduct, as well as the resourc
 [![gist](https://img.shields.io/badge/-Gist-4e91de?style=flat-square)](https://gist.github.com/JaimeStill)
 [![codepen](https://img.shields.io/badge/-Codepen-4e91de?style=flat-square)](https://codepen.io/JaimeStill) 
 [![stackblitz](https://img.shields.io/badge/-StackBlitz-4e91de?style=flat-square)](https://stackblitz.com/@JaimeStill)
-[![repl.it](https://img.shields.io/badge/-repl.it-4e91de?style=flat-square)](https://replit.com/@JaimeStill)
+[![repl.it](https://img.shields.io/badge/-repl.it-4e91de?style=flat-square)](https://replit.com/@JaimeStill?tab=repls)
 
 ## Technologies
 
