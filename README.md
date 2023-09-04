@@ -6,7 +6,9 @@ Currently working on:
 
 * Building tools for simplifying SQL data migrations: [sql-migrator](https://github.com/JaimeStill/sql-migrator)
 * Building air gapped cloud-native development environments without internet access: [azure-dev-resources](https://github.com/JaimeStill/azure-dev-resources)
-* Integrating web socket data synchronization into a standard .NET API stack: [data-sync-api](https://github.com/JaimeStill/data-sync-api)
+* Integrating web socket data synchronization into a standard .NET API stack:
+  * [data-sync-api](https://github.com/JaimeStill/data-sync-api)
+  * [DistributedDesign](https://github.com/JaimeStill/DistributedDesign)
 
 ## External Profiles
 
