@@ -8,7 +8,7 @@ Currently working on:
 * Building air gapped cloud-native development environments without internet access: [azure-dev-resources](https://github.com/JaimeStill/azure-dev-resources)
 * Integrating web socket data synchronization into a standard .NET API stack:
   * [data-sync-api](https://github.com/JaimeStill/data-sync-api)
-  * [DistributedDesign](https://github.com/JaimeStill/DistributedDesign)
+  * [distributed-design](https://github.com/JaimeStill/distributed-design)
 
 ## External Profiles
 
