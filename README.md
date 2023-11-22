@@ -4,6 +4,7 @@ GitHub is where I primarily store the research I conduct, as well as the resourc
 
 Currently working on:
 
+* Understanding and integrating modern authentication and authorization standards: [modern-auth](https://github.com/JaimeStill/modern-auth)
 * Integrating web socket data synchronization into a standard .NET API stack: [distributed-design](https://github.com/JaimeStill/distributed-design)
 * Building air gapped cloud-native development environments without internet access: [azure-dev-resources](https://github.com/JaimeStill/azure-dev-resources)
 
