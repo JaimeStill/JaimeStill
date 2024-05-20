@@ -4,9 +4,9 @@ GitHub is where I primarily store the research I conduct, as well as the resourc
 
 Currently working on:
 
+* Optimizing event-driven web socket data synchronization: [event-sync](https://github.com/JaimeStill/event-sync)
 * Building a CLI tool for generating SQL Database metadata documentation: [schema-scraper](https://github.com/JaimeStill/schema-scraper)
 * Learning how to build dev containers that work in air gapped environments: [airgapped-devcontainer](https://github.com/JaimeStill/airgapped-devcontainer)
-* Integrating web socket data synchronization into a standard .NET API stack: [distributed-design](https://github.com/JaimeStill/distributed-design)
 * Building air gapped cloud-native development environments without internet access: [azure-dev-resources](https://github.com/JaimeStill/azure-dev-resources)
 * Understanding and integrating modern authentication and authorization standards: [modern-auth](https://github.com/JaimeStill/modern-auth)
 
