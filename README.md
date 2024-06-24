@@ -5,6 +5,7 @@ GitHub is where I primarily store the research I conduct, as well as the resourc
 Currently working on:
 
 * Evaluating message brokers / event-driven architecture: [message-brokers](https://github.com/JaimeStill/message-brokers)
+* Writing organizational collaboration and dev flow standards: [dev-workflow](https://github.com/JaimeStill/dev-workflow)
 * Building a CLI tool for generating SQL Database metadata documentation: [schema-scraper](https://github.com/JaimeStill/schema-scraper)
 * Learning how to build dev containers that work in air gapped environments: [airgapped-devcontainer](https://github.com/JaimeStill/airgapped-devcontainer)
 * Building air gapped cloud-native development environments without internet access: [azure-dev-resources](https://github.com/JaimeStill/azure-dev-resources)
