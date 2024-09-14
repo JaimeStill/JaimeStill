@@ -1,6 +1,6 @@
 # Hi, I'm Jaime
 
-GitHub is where I primarily store the research I conduct, as well as the resources that I create, to facilitate my work on non-internet-facing networks.
+My personal GitHub is primarily for conducting research and capturing different ideas for later reference. All of my production work lives in private, inaccessible repositories and are not public facing.
 
 Currently working on:
 
