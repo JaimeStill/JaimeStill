@@ -16,14 +16,3 @@ Currently working on:
 [![stackblitz](https://img.shields.io/badge/-StackBlitz-00cc6a?style=for-the-badge)](https://stackblitz.com/@JaimeStill)
 [![repl.it](https://img.shields.io/badge/-repl.it-00cc6a?style=for-the-badge)](https://replit.com/@JaimeStill?tab=repls)
 [![microsoft learn](https://img.shields.io/badge/-Microsoft_Learn-00cc6a?style=for-the-badge)](https://learn.microsoft.com/en-us/users/me/activity/)
-
-## Technologies
-
-[![c#](https://img.shields.io/badge/-C%23-00cc6a?style=for-the-badge)](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/)
-[![typescript](https://img.shields.io/badge/-TypeScript-00cc6a?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![powershell](https://img.shields.io/badge/-PowerShell-00cc6a?style=for-the-badge)](https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.3)
-[![bash](https://img.shields.io/badge/-bash-00cc6a?style=for-the-badge)](https://github.com/awesome-lists/awesome-bash)
-[![scss](https://img.shields.io/badge/-SCSS-00cc6a?style=for-the-badge)](https://sass-lang.com/)
-[![dotnet](https://img.shields.io/badge/-.NET-00cc6a?style=for-the-badge)](https://docs.microsoft.com/en-us/dotnet/)
-[![angular](https://img.shields.io/badge/-Angular-00cc6a?style=for-the-badge)](https://angular.io)
-[![git](https://img.shields.io/badge/-Git-00cc6a?style=for-the-badge)](https://git-scm.com)
