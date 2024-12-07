@@ -6,7 +6,6 @@ Currently working on:
 
 * Evaluating message brokers / event-driven architecture: [message-brokers](https://github.com/JaimeStill/message-brokers)
 * Transitioning from Windows to [Pop!_OS](https://pop.system76.com/)
-* Learning Rust: [the-rust-programming-language](https://github.com/JaimeStill/the-rust-programming-language)
 
 ## External Profiles
 
