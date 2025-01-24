@@ -2,11 +2,6 @@
 
 My personal GitHub is primarily for conducting research and capturing different ideas for later reference. All of my production work lives in private, inaccessible repositories and are not public facing.
 
-Currently working on:
-
-* Evaluating message brokers / event-driven architecture: [message-brokers](https://github.com/JaimeStill/message-brokers)
-* Transitioning from Windows to [Pop!_OS](https://pop.system76.com/)
-
 ## External Profiles
 
 [![spotify](https://img.shields.io/badge/-Spotify-00cc6a?style=for-the-badge)](https://open.spotify.com/user/jaime.still)
